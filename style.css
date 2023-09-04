@@ -1,10 +1,32 @@
 body{
-    background-color: aqua; 
+    background-color: rgb(139, 110, 87); 
+    color: azure;
 }
+    h1{ 
+        font-family: Arial;
+        font-size: 22px;
+    }
+    .program-stycke { 
+        background-color: grey;
+        color: white;
+        text-align: center;
+    }
+    .tankar { 
+        text-align: right;
+    } 
+a { 
+    text-decoration: none;
+} 
+ 
+ .abaut-me { 
+    border: 1px solid black;
+    padding: 10px;
+ }
 
 h1{
     text-align: center;
 }
 .altp{
     text-align:right;
+    border:1px solid black
 }
